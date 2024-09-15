@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="26" height="12.85714" viewBox="0,0,26,12.85714">
+<defs>
+<linearGradient x1="307" y1="180" x2="333" y2="180" gradientUnits="userSpaceOnUse" id="color-1">
+<stop offset="0" stop-color="#19324e"/>
+<stop offset="1" stop-color="#18314d"/>
+</linearGradient>
+</defs>
+<g xmlns="http://www.w3.org/2000/svg" transform="translate(-307,-173.57143)" clip-path="url(#bar)">
+<g data-paper-data="{&quot;isPaintingLayer&quot;:true}" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" style="mix-blend-mode: normal">
+<path d="M307,186.42857v-12.85714h26v12.85714z" fill="url(#color-1)" stroke="#ffffff" stroke-width="0"/>
+<path d="" fill="#ff0000" stroke="none" stroke-width="0.5"/>
+<path d="" fill="#ff2929" stroke="none" stroke-width="0.5"/>
+</g>
+</g>
+<clipPath xmlns="http://www.w3.org/2000/svg" id="bar">
+<path d="M6.048584886339999,4.369615506000001 C6.395881241739999,2.4000000000000004 6.395881241739999,2.4000000000000004 8.39588124174,2.4000000000000004 L19.05,2.4000000000000004 C21.05,2.4000000000000004 21.05,2.4000000000000004 20.7027036446,4.369615506000001 L19.95141511366,8.630384494 C19.60411875826,10.6 19.60411875826,10.6 17.60411875826,10.6 L6.949999999999999,10.6 C4.949999999999999,10.6 4.949999999999999,10.6 5.297296355399999,8.630384494 z"/>
+</clipPath>
+</svg>
